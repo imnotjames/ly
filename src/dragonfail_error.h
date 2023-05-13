@@ -1,5 +1,7 @@
 #ifndef H_DRAGONFAIL_ERROR
 #define H_DRAGONFAIL_ERROR
+#define DRAGONFAIL_BASIC_LOG
+#define DRAGONFAIL_THROW_BASIC_LOG
 
 enum dgn_error
 {
